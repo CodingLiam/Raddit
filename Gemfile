@@ -15,4 +15,4 @@ gem 'spring'
 gem 'bootstrap-sass'
 gem 'acts_as_votable'
 gem 'simple_form'
-gem 'web-console', group: :development
+gem 'web-console', '~> 2.0', group: :development
