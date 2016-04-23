@@ -1,9 +1,5 @@
 Built a Reddit clone with Ruby on Rails.
 
-Gives users the ability to sign in/sign out/sign up and to submit links.
-
-I am adding functionality to upvote and downvote links too and also a comments section.
-
-I am following along on a tutorial by Mackenzie here - https://www.youtube.com/watch?v=7-1HCWbu7iU
+Can be seen here - https://liamraddit.herokuapp.com/
 
 Enjoy!
